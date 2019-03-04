@@ -1,0 +1,9 @@
+title = "Nintendogs + Cats"
+description = "Nintendogs + Cats is a pet simulation game released by Nintendo and is a sequel to Nintendogs on the Nintendo DS. Players own virtual dogs, which can go on walks and enter competitions. New to the series is the ability to own cats. Pets can be given a variety of accessories and can be feed, given water, and bathed.\n\nThere are 3 versions of Nintendogs + Cats. Save data files are not exclusive to a particular version and can be transferred to other versions."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000031200"
+region = "usa"
+release_date = "2011-02-26"
